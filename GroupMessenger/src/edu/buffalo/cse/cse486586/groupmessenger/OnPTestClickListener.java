@@ -23,7 +23,7 @@ import android.widget.TextView;
  * 
  * A ContentProvider has a unique URI that other apps use to access it. ContentResolver is
  * the class to use when accessing a ContentProvider.
- * 
+ *  
  *  
  *
  */
