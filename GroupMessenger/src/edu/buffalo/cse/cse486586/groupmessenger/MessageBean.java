@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 /**
  * Bean class to store a message
- * @author rahul
+ * @author rahultejwani
  *
  */
 public class MessageBean implements Serializable{
